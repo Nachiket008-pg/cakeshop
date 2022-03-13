@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cakeshop/static/css/main.94ad8376.css",
+    "main.js": "/cakeshop/static/js/main.12e53584.js",
+    "static/js/787.106a251c.chunk.js": "/cakeshop/static/js/787.106a251c.chunk.js",
+    "static/media/logo.svg": "/cakeshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cakeshop/index.html",
+    "main.94ad8376.css.map": "/cakeshop/static/css/main.94ad8376.css.map",
+    "main.12e53584.js.map": "/cakeshop/static/js/main.12e53584.js.map",
+    "787.106a251c.chunk.js.map": "/cakeshop/static/js/787.106a251c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ad8376.css",
+    "static/js/main.12e53584.js"
+  ]
+}
